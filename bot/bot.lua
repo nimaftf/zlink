@@ -82,6 +82,8 @@ function create_config( )
     "groupmanager",
 	"groupmanager-fa",
     "msg-checks",
+    "saveplug",
+    "plug",				
     "plugins",
     "tools",
     "expiretime",
@@ -90,7 +92,7 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {219201071},
+    sudo_users = {119953172},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
